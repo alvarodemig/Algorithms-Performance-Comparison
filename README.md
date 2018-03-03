@@ -1,2 +1,14 @@
-# AlgorithmsPerformanceComparison
-Algorithms' (Logistic Regression, Random Forest, KNN, Naive Bayes, AdaBoost, LDA, Gradient Boosting and MultiLayer Perceptron) with and without PCA performance comparison (train and prediction time, area under ROC curve) in the Criteo's prediction CTR dataset
+# Algorithms Performance Comparison
+Dataset: Criteo's CRT prediction challenge
+  - Dataset with all the variables
+  - Dataset with dimensionality reduction (PCA)
+
+Algorithms:
+  - Logistic Regression
+  - Random Forest
+  - KNearest Neighbors
+  - Naive Bayes
+  - AdaBoost
+  - LDA
+  - Gradient Boosting
+  - Neural Networks (MultiLayer Perceptron)
