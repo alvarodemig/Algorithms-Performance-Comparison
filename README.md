@@ -12,3 +12,9 @@ Algorithms:
   - LDA
   - Gradient Boosting
   - Neural Networks (MultiLayer Perceptron)
+  
+Parameter tuning: YES
+
+Output:
+  - ROC curves (png)
+  - Summary performances information of each algorithm (csv)
