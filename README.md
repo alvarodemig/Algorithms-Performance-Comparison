@@ -1,5 +1,5 @@
 # Algorithms Performance Comparison
-Dataset: Criteo's CRT prediction challenge
+Dataset: Criteo's CTR prediction challenge
   - Dataset with all the variables
   - Dataset with dimensionality reduction (PCA)
 
